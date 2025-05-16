@@ -1,1 +1,16 @@
-
+1/ 3 AI Concepts: 
+  + ANI (Artificial narrow intelligence): smart speaker, self-driving car, AI in farming
+  + Generative AI: ChatGPT
+  + AGI (Artificial general intelligence): do anything human can do
+2/ Machine Learning (AI tool):
+  + The most common type: supervised learning: learn input (A) -> output (B)
+  + Supervised learning used in generative AI repeatedly predicts the next word is called LLM (large language models)
+  + Unsupervised learning: unstructured - images, audio, text
+3/ Acquiring data by:
+  + Manual labelling
+  + Observing users behaviors
+  + Download from websites / partnerships
+4/ AI terminology:
+  + Machine learning: gives computer the ability to learn without being explicitly programmmed
+  + Data science: extract knowledge and insights from data
+  + Deep learning
