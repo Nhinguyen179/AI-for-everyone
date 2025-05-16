@@ -1,1 +1,13 @@
+1/ Workflow of projects:
+-Collect data
+-Train model: iterate many times until good enough
+-Deploy model: get data back and maintain or update model
+
+2/ Selecting AI projects: What AI can do + things valuable for your business
+-Technical diligence: 
+	+Can AI system meet desired performance?
+	+How much data is needed?
+	+Engineering timeline
+-Business diligence:
+	+Lower costs, increase revenue, launch new product/business
 
